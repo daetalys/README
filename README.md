@@ -1,4 +1,4 @@
 # hello-world
 "Hello world" repo.
 
-I am altering READNE.md within the readme-edits branchh.
+I am altering README.md within the readme-edits branchh.
